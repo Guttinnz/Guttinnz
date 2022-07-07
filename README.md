@@ -45,8 +45,7 @@
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a>
 </div>
-
-### snake eating my contribuition graph
+###
 
 ![snake gif](https://github.com/Guttinnz/Guttinnz/blob/output/github-contribution-grid-snake.gif)
 
